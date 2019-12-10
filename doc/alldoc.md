@@ -1,13 +1,5 @@
 # Как использовать систему управления версиями Git в Linux. Всеобъемлющее руководство.
 
-27.11.2019[Егор Мирошниченко](http://blog.sedicomm.com/author/y-myroshnichenko/) [GIT](http://blog.sedicomm.com/category/linux/git/)[Комментариев нет](http://blog.sedicomm.com/2019/11/27/kak-ispolzovat-sistemu-upravleniya-versiyami-git-v-linux-vseobemlyushhee-rukovodstvo/#respond)
-
-[](#)
-
-*  
-
-[![](http://blog.sedicomm.com/wp-content/uploads/2019/08/blog-linux-book-a-z.png)](http://edu-cisco.org/linux-commands-form-a-to-z-handbook-with-examples/?utm_source=blog.sedicomm.com&utm_medium=LinuxAZ&utm_campaign=blog)
-
 Управление версиями (контроль версий) — это способ записи изменений в файл или сбор файлов с течением времени, чтобы позже вы могли просмотреть конкретные версии. Система управления версиями (**VCS**) — это инструмент, который записывает изменения в файлы в файловой системе.
 
 Существует множество систем контроля версий, но **Git** в настоящее время является самым популярным и часто используемым решением, особенно для управления версиями исходного кода. Управление версиями может использоваться практически для любого типа файлов на компьютере, а не только для исходного кода.
@@ -36,7 +28,6 @@
 
 Кроме того, репозиторий **Git** может быть «**bare**» (репозиторий, который не имеет рабочего каталога) или «**non\-bare**» (с одним рабочим каталогом). **Shared** (или публичные) хранилища всегда должны быть **bare** — все репозитории **Github** являются **bare**.
 
- [![](http://blog.sedicomm.com/wp-content/uploads/2019/08/blog-ipv6.png)](http://edu-cisco.org/it-admin-video-lessons/?utm_source=blog.sedicomm.com&utm_medium=IPv6&utm_campaign=blog)
 
 #### Изучим контроль версий с Git
 
