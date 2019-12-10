@@ -57,7 +57,7 @@ $ git config --global user.email “alex.udaff@gmail.com”
 $ git config --list
 ```
 
- [![](http://blog.sedicomm.com/wp-content/uploads/2019/07/blog-free-education.png)](http://edu-cisco.org/it-admin-video-lessons/?utm_source=blog.sedicomm.com&utm_medium=ItAdminVideoLessons&utm_campaign=blog)
+ 
 
 [![View-Git-Settings](http://blog.sedicomm.com/wp-content/uploads/2018/10/View-Git-Settings.png)](http://blog.sedicomm.com/wp-content/uploads/2018/10/View-Git-Settings.png)
 
